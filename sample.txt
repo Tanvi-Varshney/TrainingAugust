@@ -1,0 +1,4 @@
+This is sample for git hub repo
+hello i am tanvi
+new lines are added 
+changed tmp file
